@@ -1,5 +1,8 @@
 # AWS_StaticWebSite_S3
 
+![image](https://github.com/nandineer/AWS/assets/22636122/c4585c8c-eaaa-43fb-b5c8-a8d7633a32b0)
+
+
 **Step #1: Design Your Website Step **
 
 **Step #2: Set Up Amazon S3 Bucket **
