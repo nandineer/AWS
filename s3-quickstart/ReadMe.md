@@ -1,5 +1,9 @@
 # AWS_QuickSight
 
+
+![image](https://github.com/nandineer/AWS/assets/22636122/6a221a3b-1a5a-4524-8e17-f5aff274ada1)
+
+
 **Step #1: Download the Dataset**
 
     Navigate to 2-s3-quicksight to download the "Amazon Bestseller Dataset" CSV file and the "manifest.json" file.
